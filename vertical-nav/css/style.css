@@ -56,8 +56,8 @@ Navigation trigger - visible on small devices only
   position: absolute;
   height: 4px;
   width: 4px;
-  background-color: #3a2c41;
-  border-radius: 50%;
+  background-color: #fa2c41;
+  /*border-radius: 50%;*/
   left: 50%;
   top: 50%;
   bottom: auto;
